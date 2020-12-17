@@ -1,0 +1,73 @@
+{
+  "results": [{
+    "id": 61819,
+    "title": "Daredevil Season 1",
+    "overview": "Blinded as a young boy, Matt Murdock fights injustice by day as a lawyer and by night as the superhero Daredevil in Hell's Kitchen, New York City.",
+    "poster_path": "/zFmJQzl6bFrdpHhDkxXmboyykqD.jpg",
+    "release_date": "2015"
+  },
+    {
+      "id": 61829,
+      "title": "Daredevil Season 2",
+      "overview": "Dark forces are tearing Hell's Kitchen apart once again, but this time Daredevil may have to choose between the city and his friends.",
+      "poster_path": "/opHoslNCxkgoCaGhfO66fvCSH83.jpg",
+      "release_date": "2016"
+    },
+    {
+      "id": 61839,
+      "title": "Daredevil Season 3",
+      "overview": "Missing for months, Matt Murdock reemerges a broken man, putting into question his future as both vigilante Daredevil and lawyer Matthew Murdock. But when his archenemy Wilson Fisk is released from prison, Matt must choose between hiding from the world, or embracing his destiny as a hero.",
+      "poster_path": "/zH6sgePlr1XX0jSZypbfQmr70Lf.jpg",
+      "release_date": "2018"
+    },
+    {
+      "id": 66712,
+      "title": "Stranger Things",
+      "overview": "Strange things are afoot in Hawkins, Indiana, where a young boy's sudden disappearance unearths a young girl with otherworldly powers.",
+      "poster_path": "/xRTUb8oeQHGjyBWj7OOpkvUuvKO.jpg",
+      "release_date": "2016"
+    },
+    {
+      "id": 66722,
+      "title": "Stranger Things 2",
+      "overview": "It's been nearly a year since Will's strange disappearance. But life's hardly back to normal in Hawkins. Not even close.",
+      "poster_path": "/lXS60geme1LlEob5Wgvj3KilClA.jpg",
+      "release_date": "2017"
+    },
+    {
+      "id": 66732,
+      "title": "Stranger Things 3",
+      "overview": "One Summer can change Everything.",
+      "poster_path": "/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+      "release_date": "2019"
+    },
+    {
+      "id": 75006,
+      "title": "The Umbrella Academy",
+      "overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+      "poster_path": "/uYHdIs5O8tiU5p6MvUPd2jElOH6.jpg",
+      "release_date": "2019"
+    },
+    {
+      "id": 38412,
+      "title": "Jessica Jones",
+      "overview": "Haunted by a traumatic past, Jessica Jones uses her gifts as a private eye to find her tormentor before he can harm anyone else in Hell's Kitchen.",
+      "poster_path": "/4XbwCmEr72fQhMZ8CYONB2kxtXY.jpg",
+      "release_date": "2015"
+    },
+    {
+      "id": 38422,
+      "title": "Jessica Jones Season 2",
+      "overview": "Drowning in anger, Jessica Jones is forced to reckon with her past, her powers and her newfound fame as she dishes out her own messy form of justice. Finally ready to face her past, Jessica hunts down the source of her powers and uncovers a link to a shadowy killer who's terrorizing the city.",
+      "poster_path": "/7pJP2YLAz1fcyqk0VlvcvxsyUCm.jpg",
+      "release_date": "2018"
+    },
+    {
+      "id": 38432,
+      "title": "Jessica Jones Season 3",
+      "overview": "In the final season, Jessica matches wits with a calculating serial killer, and a newly powered Trish goes to extremes to stamp out evil.",
+      "poster_path": "/5HyBZrWyZVTTClijgk4ivITDMe.jpg",
+      "release_date": "2019"
+    }
+  ]
+}

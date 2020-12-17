@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castMovieId": 3,
+      "movieId": 283995,
+      "name": "Chris Pratt",
+      "imgPoster": "/gXKyT1YU5RWWPaE1je3ht58eUZr.jpg"
+    },
+    {
+      "castMovieId": 4,
+      "movieId": 283995,
+      "name": "Zoe Saldana",
+      "imgPoster": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+      "castMovieId": 5,
+      "movieId": 283995,
+      "name": "Dave Bautista",
+      "imgPoster": "/n70J37YOBYEvLOtdVVXJCYGaTeR.jpg"
+    }
+  ]
+}

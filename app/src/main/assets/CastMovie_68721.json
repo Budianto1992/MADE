@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castMovieId": 40,
+      "movieId": 68721,
+      "name": "Robert Downey Jr.",
+      "imgPoster": "/bOH7QqvC9FShVMzWH2wBTtb2iwX.jpg"
+    },
+    {
+      "castMovieId": 6,
+      "movieId": 68721,
+      "name": "Gwyneth Paltrow",
+      "imgPoster": "/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
+    },
+    {
+      "castMovieId": 35,
+      "movieId": 68721,
+      "name": "Guy Pearce",
+      "imgPoster": "/hCzlUxrTLz3ntoPApW873sX0THf.jpg"
+    }
+  ]
+}

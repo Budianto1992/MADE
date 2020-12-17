@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castTvId": 1920,
+      "tvshowId": 66732,
+      "name": "Winona Ryder",
+      "imgPoster": "/5yteOSY2lgGOgSWmRTlxqfY59MS.jpg"
+    },
+    {
+      "castTvId": 35029,
+      "tvshowId": 66732,
+      "name": "David Harbour",
+      "imgPoster": "/chPekukMF5SNnW6b22NbYPqAStr.jpg"
+    },
+    {
+      "castTvId": 1442069,
+      "tvshowId": 66732,
+      "name": "Finn Wolfhard",
+      "imgPoster": "/pefciSxD2TZurQIDtyGtStz9TaK.jpg"
+    }
+  ]
+}

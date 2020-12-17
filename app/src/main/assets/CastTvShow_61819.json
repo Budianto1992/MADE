@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castTvId": 212285,
+      "tvshowId": 61819,
+      "name": "Jack Whitehall",
+      "imgPoster": "/8xRKz1tiVyjLxIMuD0ckOmF3xMY.jpg"
+    },
+    {
+      "castTvId": 1409597,
+      "tvshowId": 61819,
+      "name": "Michael Whitehall",
+      "imgPoster": "/8kG8YdmzdQ6BR5C2qMLnV2e8Bnp.jpg"
+    },
+    {
+      "castTvId": 1017299,
+      "tvshowId": 61819,
+      "name": "Tom Hopper",
+      "imgPoster": "/qS8F31xn6ZoNBTOvcXZfWewgma2.jpg"
+    }
+  ]
+}

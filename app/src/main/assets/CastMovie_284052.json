@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castMovieId": 312,
+      "movieId": 284052,
+      "name": "Benedict Cumberbatch",
+      "imgPoster": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "castMovieId": 313,
+      "movieId": 284052,
+      "name": "Chiwetel Ejiofor",
+      "imgPoster": "/baeHNv3qrVsnApuKbZXiJOhqMnw.jpg"
+    },
+    {
+      "castMovieId": 314,
+      "movieId": 284052,
+      "name": "Rachel McAdams",
+      "imgPoster": "/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
+    }
+  ]
+}

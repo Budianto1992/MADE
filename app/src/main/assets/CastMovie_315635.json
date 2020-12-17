@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castMovieId": 16,
+      "movieId": 315635,
+      "name": "Tom Holland",
+      "imgPoster": "/ip7aXVH8s6wXv8cY6KI14OZgCI8.jpg"
+    },
+    {
+      "castMovieId": 28,
+      "movieId": 315635,
+      "name": "Michael Keaton",
+      "imgPoster": "/baeHNv3qrVsnApuKbZXiJOhqMnw.jpg"
+    },
+    {
+      "castMovieId": 26,
+      "movieId": 315635,
+      "name": "Robert Downey Jr.",
+      "imgPoster": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    }
+  ]
+}

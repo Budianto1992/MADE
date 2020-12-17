@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castTvId": 51944,
+      "tvshowId": 66722,
+      "name": "Mike Epps",
+      "imgPoster": "/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg"
+    },
+    {
+      "castTvId": 9781,
+      "tvshowId": 66722,
+      "name": "Nia Long",
+      "imgPoster": "/2HnplqKDWkLyReeeAPsbEctkpPQ.jpg"
+    },
+    {
+      "castTvId": 1056956,
+      "tvshowId": 66722,
+      "name": "Lucas van den Eynde",
+      "imgPoster": "/cJAvPxE9niLQPPBJVUpMFcrDQ6w.jpg"
+    }
+  ]
+}

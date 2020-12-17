@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castMovieId": 379,
+      "movieId": 429617,
+      "name": "Tom Holland",
+      "imgPoster": "/ip7aXVH8s6wXv8cY6KI14OZgCI8.jpg"
+    },
+    {
+      "castMovieId": 144,
+      "movieId": 429617,
+      "name": "Nick Fury",
+      "imgPoster": "/mXN4Gw9tZJVKrLJHde2IcUHmV3P.jpg"
+    },
+    {
+      "castMovieId": 143,
+      "movieId": 429617,
+      "name": "Jake Gyllenhaal",
+      "imgPoster": "/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
+    }
+  ]
+}

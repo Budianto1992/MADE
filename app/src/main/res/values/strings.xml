@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MovieJetpackPro</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">Tv Show</string>
+
+    <string name="title_activity_detail_movie">Detail Movie</string>
+    <string name="overview_sample">lorem\tipsum dolor sit amet</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="title_sample">Title</string>
+    <string name="genre_sample">Action</string>
+    <string name="overview">Overview</string>
+    <string name="image_poster_description">This image for poster movie</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="title_activity_favorite_detail">Favorite Movie Detail</string>
+    <string name="empty">There is no data here!</string>
+    <string name="favorite_tv_show">Favorite Tv Show</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="sample_average">8.7</string>
+    <string name="sample_vote_count">(100)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="release_date">Release Date</string>
+    <string name="list_cast">Casting</string>
+    <string name="title_activity_detail_tvshow">Detail TvShow</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="default_text">Default Text</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="image_description">Image</string>
+    <string name="title_release_date">Release Date</string>
+    <string name="title_rating">Rating</string>
+    <string name="title_original_name">Title Original</string>
+    <string name="todo">TODO</string>
+    <string name="no_data">Tidak Ada Data</string>
+</resources>

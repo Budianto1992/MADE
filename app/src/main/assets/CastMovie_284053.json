@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castMovieId": 0,
+      "movieId": 284053,
+      "name": "Chris Hemsworth",
+      "imgPoster": "/kN7sPp4ObBcGHsgNQNwawNpuIky.jpg"
+    },
+    {
+      "castMovieId": 1,
+      "movieId": 284053,
+      "name": "Tom Hiddleston",
+      "imgPoster": "/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "castMovieId": 11,
+      "movieId": 284053,
+      "name": "Cate Blanchett",
+      "imgPoster": "/9V83uemR0ra9Wd9iRXTMlfAQlTB.jpg"
+    }
+  ]
+}

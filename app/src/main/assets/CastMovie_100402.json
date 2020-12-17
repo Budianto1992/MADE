@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castMovieId": 1,
+      "movieId": 100402,
+      "name": "Chris Evans",
+      "imgPoster": "/bOH7QqvC9FShVMzWH2wBTtb2iwX.jpg"
+    },
+    {
+      "castMovieId": 8,
+      "movieId": 100402,
+      "name": "Scarlett Johansson",
+      "imgPoster": "/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg"
+    },
+    {
+      "castMovieId": 3,
+      "movieId": 100402,
+      "name": "Sebastian Stan",
+      "imgPoster": "/g0iWJKxhseovpNKTh7cAIqkNCGW.jpg"
+    }
+  ]
+}

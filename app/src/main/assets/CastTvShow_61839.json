@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castTvId": 44366,
+      "tvshowId": 61839,
+      "name": "Filip Peeters",
+      "imgPoster": "/2QBAr0F5D9xi8jP6EXs4gS2CmSr.jpg"
+    },
+    {
+      "castTvId": 82420,
+      "tvshowId": 61839,
+      "name": "Koen De Bouw",
+      "imgPoster": "/xw0NWG9FXXTkhPn1qkWHWbccnwf.jpg"
+    },
+    {
+      "castTvId": 1056956,
+      "tvshowId": 61839,
+      "name": "Lucas van den Eynde",
+      "imgPoster": "/cJAvPxE9niLQPPBJVUpMFcrDQ6w.jpg"
+    }
+  ]
+}

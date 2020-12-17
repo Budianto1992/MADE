@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castMovieId": 6,
+      "movieId": 301528,
+      "name": "Tom Hanks",
+      "imgPoster": "/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+    },
+    {
+      "castMovieId": 66,
+      "movieId": 301528,
+      "name": "Tim Allen",
+      "imgPoster": "/6qlDjidQSKNcJFHzTXh0gQS83ub.jpg"
+    },
+    {
+      "castMovieId": 58,
+      "movieId": 301528,
+      "name": "Annie Potts",
+      "imgPoster": "/nugPVN28qOhOIoHawrDJ6fIfrxR.jpg"
+    }
+  ]
+}

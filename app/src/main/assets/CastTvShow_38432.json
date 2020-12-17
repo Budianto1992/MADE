@@ -1,0 +1,22 @@
+{
+  "casts": [
+    {
+      "castTvId": 27577,
+      "tvshowId": 38432,
+      "name": "Ellen Page",
+      "imgPoster": "/tp157uXeMPA5G91cfecBWO2OFzn.jpg"
+    },
+    {
+      "castTvId": 1520848,
+      "tvshowId": 38432,
+      "name": "Aidan Gallagher",
+      "imgPoster": "/zwOMopF4dAAvA6Lexr2dxJ9qBlD.jpg"
+    },
+    {
+      "castTvId": 1017299,
+      "tvshowId": 38432,
+      "name": "Tom Hopper",
+      "imgPoster": "/qS8F31xn6ZoNBTOvcXZfWewgma2.jpg"
+    }
+  ]
+}
