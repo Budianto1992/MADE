@@ -18,21 +18,6 @@ class MovieRepository(
     private val appExecutors: AppExecutors
 ) : IMovieRepository {
 
-//    companion object{
-//        @Volatile
-//        private var instance: MovieRepository? = null
-//
-//        fun getInstance(remote: RemoteDataSource, local: LocalDataSource, mAppExecutors: AppExecutors) : MovieRepository =
-//            _root_ide_package_.com.budianto.moviejetpackpro.core.data.MovieRepository.Companion.instance
-//                ?: synchronized(this){
-//                _root_ide_package_.com.budianto.moviejetpackpro.core.data.MovieRepository.Companion.instance
-//                    ?: _root_ide_package_.com.budianto.moviejetpackpro.core.data.MovieRepository(
-//                        remote,
-//                        local,
-//                        mAppExecutors
-//                    )
-//            }
-//    }
 
     override fun getAllMovies(): Flow<Resource<List<Movie>>> =
             object : NetworkBoundResource<List<Movie>, List<MovieResponse>>(){
