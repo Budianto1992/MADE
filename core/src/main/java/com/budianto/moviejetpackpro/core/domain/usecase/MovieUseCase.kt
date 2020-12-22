@@ -11,8 +11,6 @@ interface MovieUseCase {
     fun getMDetailMovie(movieId: Int): Flow<Resource<Movie>>
 
     fun getFavoriteMovie(): Flow<List<Movie>>
-//
-//    fun cleareFavoriteMovie()
 
     fun setFavoriteMovie(movie: Movie, state: Boolean)
 }

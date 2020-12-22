@@ -24,16 +24,6 @@ class MovieAdapter : RecyclerView.Adapter<MovieAdapter.ViewHolder>() {
         notifyDataSetChanged()
     }
 
-//    companion object {
-//        private val DIFF_CALLBACK = object : DiffUtil.ItemCallback<Movie>() {
-//            override fun areItemsTheSame(oldItem: Movie, newItem: Movie): Boolean {
-//                return oldItem.movieId == newItem.movieId
-//            }
-//            override fun areContentsTheSame(oldItem: Movie, newItem: Movie): Boolean {
-//                return oldItem == newItem
-//            }
-//        }
-//    }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) =
         ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.item_movie, parent, false))

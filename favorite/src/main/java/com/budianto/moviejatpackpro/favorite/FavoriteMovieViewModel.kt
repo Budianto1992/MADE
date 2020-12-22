@@ -6,5 +6,4 @@ import com.budianto.moviejetpackpro.core.domain.usecase.MovieUseCase
 
 class FavoriteMovieViewModel(useCaseMovie: MovieUseCase) : ViewModel(){
     val favoriteMovie = useCaseMovie.getFavoriteMovie().asLiveData()
-//    fun setStateFavorite() = useCaseMovie.cleareFavoriteMovie()
 }

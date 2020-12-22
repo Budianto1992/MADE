@@ -28,9 +28,6 @@ class DetailMovieActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail_movie)
 
-//        val factory = ViewModelFactory.getInstance(this)
-//        viewModel = ViewModelProvider(this, factory)[DetailMovieViewModel::class.java]
-
         val detailMovie = intent.getParcelableExtra<Movie>(EXTRA_MOVIE)
         if (detailMovie != null){
             toolbar.title = detailMovie.title

@@ -25,7 +25,6 @@ class MovieFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         setHasOptionsMenu(true)
-        // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_movie, container, false)
     }
 
@@ -33,8 +32,6 @@ class MovieFragment : Fragment() {
         super.onActivityCreated(savedInstanceState)
 
         if (activity != null){
-//            val factory = ViewModelFactory.getInstance(requireActivity())
-//            val viewModel = ViewModelProvider(this, factory)[MovieViewModel::class.java]
             val movieAdapter = MovieAdapter()
             movieAdapter.onItemClick = { selectedData->
                 val intent = Intent(activity, DetailMovieActivity::class.java)

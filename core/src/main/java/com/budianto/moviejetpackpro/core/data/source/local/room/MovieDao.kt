@@ -21,9 +21,6 @@ interface MovieDao {
     @Update
     fun updateFavoriteMovie(movie: MovieEntity)
 
-//    @Query("UPDATE movieentities SET isMovieFavorite = 0 where isMovieFavorite = 1")
-//    suspend fun clearFavoriteMovie()
-
     @Query("SELECT * FROM movieentities WHERE movieId = :movieId")
     fun getDetailMovie(movieId: Int): Flow<MovieEntity>
 }

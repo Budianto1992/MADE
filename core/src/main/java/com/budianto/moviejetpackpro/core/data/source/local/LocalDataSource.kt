@@ -7,16 +7,7 @@ import kotlinx.coroutines.flow.Flow
 
 class LocalDataSource constructor(private val mMovieDao: MovieDao) {
 
-//    companion object{
-//        private var INSTANCE: LocalDataSource? = null
-//
-//        fun getInstance(movieDao: MovieDao, tvShowDao: TvShowDao) : LocalDataSource{
-//            if (INSTANCE == null){
-//                INSTANCE = LocalDataSource(movieDao, tvShowDao)
-//            }
-//            return INSTANCE as LocalDataSource
-//        }
-//    }
+
 
 
     fun getAllMovies(): Flow<List<MovieEntity>> = mMovieDao.getAllMovies()
@@ -31,8 +22,6 @@ class LocalDataSource constructor(private val mMovieDao: MovieDao) {
         movie.isMovieFavorite = newState
         mMovieDao.updateFavoriteMovie(movie)
     }
-//
-//    suspend fun cleareFavoriteMovie() = mMovieDao.clearFavoriteMovie()
 
     fun getDetailMovie(movieId: Int) = mMovieDao.getDetailMovie(movieId)
 
